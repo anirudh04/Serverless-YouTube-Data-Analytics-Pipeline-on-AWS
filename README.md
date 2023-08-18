@@ -5,6 +5,10 @@ This project builds an automated big data pipeline for ingesting, processing, an
 
 The pipeline follows modern data engineering best practices using a serverless architecture on AWS cloud platform. This enables secure, resilient, and cost-efficient analysis of large YouTube datasets.
 
+## Architecture Diagram
+
+<img src="architecture.png">
+
 ## Pipeline Orchestration
 
 The ETL process is orchestrated on AWS as follows:
