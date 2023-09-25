@@ -7,7 +7,7 @@ The pipeline follows modern data engineering best practices using a serverless a
 
 ## Architecture Diagram
 
-<img src="Byko_Hospitality.PNG">
+<img src="architecture.png">
 
 ## Pipeline Orchestration
 
